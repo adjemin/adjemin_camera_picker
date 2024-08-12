@@ -1,7 +1,12 @@
 name: adjemin_camera_picker
 description: "A camera picker for Flutter projects."
 version: 0.0.1
-homepage:
+topics:
+  - picker
+  - camera
+  - image
+
+repository: https://github.com/adjemin/adjemin_camera_picker
 
 environment:
   sdk: '>=3.4.3 <4.0.0'
